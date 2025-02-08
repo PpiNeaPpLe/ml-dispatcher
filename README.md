@@ -2,6 +2,9 @@
 
 This project demonstrates how to use machine learning to optimize technician assignments for plumbing jobs, leading to increased revenue and dispatcher efficiency. This is a simple demonstration of the concept extracted from a larger project I'm working on.
 
+## Real-World Implementation
+Check out a case study of how we implemented this system and the results achieved: [Culkin Plumbing Case Study](https://everydaysoftware.xyz/case-study/culkin)
+
 ## Business Impact
 - **Increased Revenue**: By matching the right technician to each job based on historical performance, we maximize the potential for appropriate upselling and quality service
 - **Improved Efficiency**: Reduces dispatcher decision time by providing data-driven recommendations
